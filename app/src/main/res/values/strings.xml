@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ResultantTestApplication</string>
+
+    <string name="base_url">http://phisix-api3.appspot.com/</string>
+    <string name="error_message_load_data">Не удалось загрузить данные</string>
+
+    <string name="name_title">Название:</string>
+    <string name="price_title">Цена:</string>
+    <string name="amount_title">Количество:</string>
+
+    <string name="update_str">Обновить</string>
+    
+</resources>
